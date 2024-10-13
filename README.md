@@ -12,23 +12,23 @@
 
 3. [Code Overview](#code-overview)
 
-- [Data Structures](#data-structures)
+	- [Data Structures](#data-structures)
 
-- [Function Descriptions](#function-descriptions)
+	- [Function Descriptions](#function-descriptions)
 
 4. [Detailed Code Explanation](#detailed-code-explanation)
 
-- [Main Function](#main-function)
+	- [Main Function](#main-function)
 
-- [Game Initialization](#game-initialization)
+	- [Game Initialization](#game-initialization)
 
-- [Board Representation](#board-representation)
+	- [Board Representation](#board-representation)
 
-- [Move Generation and Validation](#move-generation-and-validation)
+	- [Move Generation and Validation](#move-generation-and-validation)
 
-- [Making Moves and Captures](#making-moves-and-captures)
+	- [Making Moves and Captures](#making-moves-and-captures)
 
-- [Game Loop](#game-loop)
+	- [Game Loop](#game-loop)
 
 5. [Future Improvements](#future-improvements)
 
