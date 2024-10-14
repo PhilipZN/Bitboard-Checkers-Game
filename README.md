@@ -1,5 +1,4 @@
-# Checkers Game
-
+# Bitboard Checkers Game Documentation
   
 
 ## Table of Contents
