@@ -41,7 +41,7 @@
 
   
 
-Welcome to the ****Checkers Game****! This is a console-based checkers game implemented in C using bitboards for efficient computation. The game supports two players, adhering to standard checkers rules, including mandatory captures and king promotions.
+Welcome to my ****Bitboard Checkers Game****! This is a console-based checkers game implemented in C using bitboards for efficient computation. The game supports two players, adhering to standard checkers rules, including mandatory captures and king promotions.
 
   
 ## How to Play
