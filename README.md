@@ -29,7 +29,6 @@
 
 	- [Game Loop](#game-loop)
 
-5. [Future Improvements](#future-improvements)
 
   
 
@@ -1155,30 +1154,6 @@ while ((c = getchar()) != '\n' && c != EOF) {}
 •  **Logic**:
 
 •  Reads characters from the input until a newline or EOF is encountered.
-
-  
-
-## Future Improvements
-
-  
-
-•  **Multiple Jumps**: Implement logic to allow multiple captures in a single turn when applicable.
-
-•  **AI Opponent**: Create an AI player to enable single-player mode.
-
-•  **Graphical Interface**: Develop a GUI version for enhanced user experience.
-
-•  **Save and Load**: Add functionality to save the game state and load it later.
-
-•  **Network Play**: Enable playing over a network or the internet.
-
-•  **Enhanced Move Validation**: Improve the robustness of move validation to handle all edge cases.
-
-•  **User-Friendly Messages**: Provide more detailed feedback and instructions to players.
-
-  
-
-
   
 
 ## Appendix
